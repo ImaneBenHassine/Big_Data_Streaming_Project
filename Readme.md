@@ -16,5 +16,5 @@ Along with all the Maven dependencies such as :
 * [scala-library](https://mvnrepository.com/artifact/org.scala-lang/scala-library)
 * etc...
 
-# Version
+## Version
 1.0
